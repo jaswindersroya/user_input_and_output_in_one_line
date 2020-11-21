@@ -1,0 +1,1 @@
+# user_input_and_output_in_one_line
